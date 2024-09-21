@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -18,4 +17,15 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-This is a line from RStudio
+Nhat Le
+
+12.1 Checked and met all prerequisites
+
+12.2 The repo already exists on github at this point
+
+12.3 cloned online github classroom repo to local computer and was able
+to edit now!
+
+12.4 ‘This is a line from RStudio’
+
+12.5 My local changes were pushed to Github successfully (I’ll push now)
