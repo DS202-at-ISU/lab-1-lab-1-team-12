@@ -29,3 +29,8 @@ Nhat Le
 12.4 'This is a line from RStudio'
 
 12.5 My local changes were pushed to Github successfully (I'll push now)
+
+12.6 ![My Confirmation](images/nhatle.png)
+
+12.7 Skipped this step because of the instructions for the lab
+
