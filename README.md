@@ -33,3 +33,14 @@ to edit now!
 12.6 ![My Confirmation](images/nhatle.png)
 
 12.7 Skipped this step because of the instructions for the lab
+
+Keenan Jacobs
+
+12.1 All good, have met all requirements
+
+12.2 Everything has been done
+
+12.3 Got everything set up and cloned repository
+
+12.4 ‘This is a line from RStudio’ as well as the rest of these
+lines/edits
