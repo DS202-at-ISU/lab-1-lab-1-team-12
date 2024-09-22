@@ -44,4 +44,10 @@ Keenan Jacobs
 
 12.4 'This is a line from RStudio' as well as the rest of these lines/edits
 
+12.5 About to push the Github changes
+
+12.6 ![My Confirmation as well](images/kjacobs.png)
+
+12.7 Skipped
+
 
