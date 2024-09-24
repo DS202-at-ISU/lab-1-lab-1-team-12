@@ -51,8 +51,9 @@ lines/edits
 
 12.7 Skipped
 
-**Madhu Babu Avula** 12.1 Successfully Completed the steps ( Installing,
-connecting, etc)
+**Madhu Babu Avula**
+
+12.1 Successfully Completed the steps ( Installing, connecting, etc)
 
 12.2 Done - with repo on Github
 
