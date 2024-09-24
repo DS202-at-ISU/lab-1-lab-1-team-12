@@ -50,3 +50,18 @@ lines/edits
 12.6 ![My Confirmation as well](images/kjacobs.png)
 
 12.7 Skipped
+
+**Madhu Babu Avula** 12.1 Successfully Completed the steps ( Installing,
+connecting, etc)
+
+12.2 Done - with repo on Github
+
+12.3 Done with Test Github Repository
+
+12.4 Able to commit changes, save
+
+12.5 I can push and pull changes
+
+12.6 ![My confirmation](images/madhu_SS_first.png)
+
+12.7 done
